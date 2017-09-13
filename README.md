@@ -10,7 +10,6 @@ My idea is to build a GUI where Data can be explored, models can be built. For e
 
 I have been using JMP, it has simple and powerful UI and has ability to generate code. However the rate of progress for Deep learingin and AI is limited due to few developers. If we can open source this and use the power of shared building for the community. This would be greate for everyone.  
 
-# StatPy
-StatPy would have UI based system with ablity to generate deployment ready python code
+
 
 
